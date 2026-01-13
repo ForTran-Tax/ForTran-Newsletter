@@ -1,2 +1,3 @@
-# ForTran-Newsletter
-Assets for newsletter
+# Newsletter Assets
+
+Static assets for ForTran Law Firm newsletters.
